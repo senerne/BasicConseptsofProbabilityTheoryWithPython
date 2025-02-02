@@ -35,5 +35,3 @@ This repository contains the assignment for the **GEO 225E - Probability and Sta
 ## 📌 Conclusion
 This assignment demonstrates the application of probability and statistics in **Geomatics Engineering**, using Python for both theoretical and computational aspects. The repository contains well-structured scripts and documentation for probability distributions and their real-world applications.
 
-Feel free to explore the repository and reach out with any questions! 🚀
-
